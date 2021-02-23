@@ -1,0 +1,11 @@
+npm create todo-ninja
+cd todo-ninja
+npm run serve 
+
+-----> run initial vue project
+
+
+vue add vuetify (can only run in Vue CLI [VueCLI 3 recommended])
+choose default preset
+
+npm run serve/dev/build
